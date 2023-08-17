@@ -1,0 +1,103 @@
+[
+    {
+      "firstname": "John",
+      "lastname": "Doe",
+      "patientID": "1000",
+      "address": "1234 Main St.",
+      "city": "St. John's",
+      "phone": "7095551234",
+      "email": "johndoe@gmail.com",
+      "nextappointment": "10/28/203"
+    },
+    {
+      "firstname": "Evelyn",
+      "lastname": "Lee",
+      "patientID": "1001",
+      "address": "12450 Sherbrooke E.",
+      "city": "St. John's",
+      "phone": "5146400941",
+      "email": "elee@gmail.com",
+      "nextappointment": "12/20/2023"
+    },
+    {
+      "firstname": "Olivia",
+      "lastname": "King",
+      "patientID": "1002",
+      "address": "625 Queen St W",
+      "city": "St. John's",
+      "phone": "4165046138",
+      "email": "oking@gmail.com",
+      "nextappointment": "01/25/2024"
+    },
+    {
+      "firstname": "Mateo",
+      "lastname": "Walker",
+      "patientID": "1003",
+      "address": "140 Sussex Dr.",
+      "city": "St. John's",
+      "phone": "7784775554",
+      "email": "mateowalker@gmail.com",
+      "nextappointment": "01/17/2024"
+    },
+    {
+      "firstname": "Connor",
+      "lastname": "Gagne",
+      "patientID": "1004",
+      "address": "68 Heritage Gate",
+      "city": "St. John's",
+      "phone": "4032524042",
+      "email": "connerg@gmail.com",
+      "nextappointment": "06/09/2024"
+    },
+    {
+      "firstname": "Hannah",
+      "lastname": "Leblanc",
+      "patientID": "1005",
+      "address": "1381 Regent St.",
+      "city": "St. John's",
+      "phone": "5064551681",
+      "email": "hannahleblanc@gmail.com",
+      "nextappointment": "08/02/2024"
+    },
+    {
+      "firstname": "Victoria",
+      "lastname": "Johnston",
+      "patientID": "1006",
+      "address": "1200 Hunter Pl",
+      "city": "St. John's",
+      "phone": "6048154334",
+      "email": "vickyj@gmail.com",
+      "nextappointment": "12/18/2023"
+    },
+    {
+      "firstname": "Addison",
+      "lastname": "Walker",
+      "patientID": "1007",
+      "address": "3208 Dougall Ave.",
+      "city": "St. John's",
+      "phone": "5199661402",
+      "email": "addisonwalker@gmail.com",
+      "nextappointment": "03/12/2024"
+    },
+    {
+      "firstname": "Isaac",
+      "lastname": "Taylor",
+      "patientID": "1008",
+      "address": "1926 W 4th Ave.",
+      "city": "St. John's",
+      "phone": "6045687716",
+      "email": "itaylor@gmail.com",
+      "nextappointment": "05/26/2024"
+    },
+    {
+      "firstname": "Claire",
+      "lastname": "Campbell",
+      "patientID": "1009",
+      "address": "8 Mission Ave.",
+      "city": "St. John's",
+      "phone": "7804582232",
+      "email": "clairecampbell@gmail.com",
+      "nextappointment": "10/21/2023"
+    }
+  ]
+  
